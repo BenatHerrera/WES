@@ -4,7 +4,7 @@
 
 ---
 
-## 🗂️ Edukia
+## 🗂️ Edukia| 🔗 |
 
 - [🔴 Ariketak](#-ariketak)
   - [Ariketa 1](#-ariketa-1)
@@ -17,7 +17,7 @@
 
 > Ariketa honen barruan hainbat ariketa eta kontzeptu landu dira.
 
-| # | Ariketa | 🔗 |
+| # | Ariketa |
 |---|---|---|
 | 1️⃣ | Aldagaia eta Iruzkina |
 | 2️⃣ | Baldintzak |
