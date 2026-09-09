@@ -19,11 +19,11 @@
 
 | # | Ariketa | 🔗 |
 |---|---|---|
-| 1️⃣ | Aldagaia eta Iruzkina | [Ikusi](#1️⃣-aldagaia-eta-iruzkina) |
-| 2️⃣ | Baldintzak | [Ikusi](#2️⃣-baldintzak) |
-| 3️⃣ | Erosketa Kopurua Handiagoa | [Ikusi](#3️⃣-erosketa-kopurua-handiagoa) |
-| 4️⃣ | Kontua Blokeatu Balio Batetik | [Ikusi](#4️⃣-kontua-blokeatu-balio-batetik) |
-| 5️⃣ | Baimendutako Irteera Balioa Sortu | [Ikusi](#5️⃣-baimendutako-irteera-balioa-sortu) |
+| 1️⃣ | Aldagaia eta Iruzkina |
+| 2️⃣ | Baldintzak |
+| 3️⃣ | Erosketa Kopurua Handiagoa | 
+| 4️⃣ | Kontua Blokeatu Balio Batetik |
+| 5️⃣ | Baimendutako Irteera Balioa Sortu |
 
 ---
 
