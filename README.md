@@ -8,11 +8,6 @@
 
 - [🔴 Ariketak](#-ariketak)
   - [Ariketa 1](#-ariketa-1)
-    - [Aldagaia eta Iruzkina](#1️⃣-aldagaia-eta-iruzkina)
-    - [Baldintzak](#2️⃣-baldintzak)
-    - [Erosketa Kopurua Handiagoa](#3️⃣-erosketa-kopurua-handiagoa)
-    - [Kontua Blokeatu Balio Batetik](#4️⃣-kontua-blokeatu-balio-batetik)
-    - [Baimendutako Irteera Balioa Sortu](#5️⃣-baimendutako-irteera-balioa-sortu)
 
 ---
 
