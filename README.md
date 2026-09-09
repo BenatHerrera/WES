@@ -27,36 +27,6 @@
 
 ---
 
-### 1️⃣ Aldagaia eta Iruzkina
-
-📌 Aldagaien eta iruzkinen erabilera.
-
----
-
-### 2️⃣ Baldintzak
-
-📌 Baldintzen erabilera eta kontrol-egiturak.
-
----
-
-### 3️⃣ Erosketa Kopurua Handiagoa
-
-📌 Erosketa kopuruaren arabera baldintzak aplikatzea.
-
----
-
-### 4️⃣ Kontua Blokeatu Balio Batetik
-
-📌 Balio jakin batetik aurrera kontua blokeatzeko logika.
-
----
-
-### 5️⃣ Baimendutako Irteera Balioa Sortu
-
-📌 Baimendutako irteera-balio bat sortzea eta kontrolatzea.
-
----
-
 ## ⬆️ Nabigazioa
 
 [⬆️ Hasierara itzuli](#-wes-egindakoa)
