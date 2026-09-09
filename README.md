@@ -2,7 +2,7 @@
 
 <img width="350" height="200" alt="Image" src="https://github.com/user-attachments/assets/e7b146a3-779d-4e3a-adc4-29aed3bc1014" />
 
-## <span style="color: red;">ARIKETAK</span>
+<h2 style="color: red;">ARIKETAK</h2>
 ### ARIKETA1
 - Aldagaia eta Iruzkina
 - Baldintzak
