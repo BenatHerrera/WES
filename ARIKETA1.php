@@ -51,6 +51,17 @@
 
 
     <h2>Ariketa 1.4</h2>
+       
+    <label for="<?php echo $pin;?>"> Sartu zure    PINA (8 karaktere):</label>
+
+        <input
+            type="text"
+            id="pin"
+            name="name"
+            required
+            minlength="8"
+            maxlength="8"
+            size="10" />  
 
         <?php
 
