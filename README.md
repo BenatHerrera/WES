@@ -6,13 +6,12 @@
 
 ## 🗂️ Edukia | 🔗 |
 
-* [🔴 Ariketak](#-ariketak)
-
-  * [Ariketa 1](#-ariketa-1)
-  * [Ariketa 2](#-ariketa-2)
-  * [Ariketa 3](#-ariketa-3)
-  * [Ariketa 4](#-ariketa-4)
-  * [Ariketa 5](#-ariketa-5)
+- [🔴 Ariketak](#-ariketak)
+  - [Ariketa 1](WES/ARIKETA1.php)
+  - [Ariketa 2](WES/ARIKETA2.php)
+  - [Ariketa 3](WES/ARIKETA3.php)
+  - [Ariketa 4](WES/ARIKETA4.php)
+  - [Ariketa 5](WES/ARIKETA5.php)
 
 ---
 
