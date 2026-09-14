@@ -7,7 +7,7 @@
 ## 🗂️ Edukia | 🔗 |
 
 - [🔴 Ariketak](#-ariketak)
-  - [Ariketa 1](WES/ARIKETA1.php)
+  - [Ariketa 1](ARIKETA1.php)
   - [Ariketa 2](WES/ARIKETA2.php)
   - [Ariketa 3](WES/ARIKETA3.php)
   - [Ariketa 4](WES/ARIKETA4.php)
