@@ -8,6 +8,10 @@
     <body>
     
         <h2> Ariketak 4.1</h2>
+            
+            <!--Zenbakien Batura (array erabiliz): ausazko 5 zenbakien batura egin (1tik 100erako balioak izango dute). 
+            Taula batean erakutsiko dituzue balioak eta azkenengo lerroan batuketaren emaitza agertuko da.-->
+
             <?php
 
             $zbkarray = [];
@@ -48,6 +52,9 @@
 
 
         <h2> Ariketak 4.2</h2>
+
+        <!-- Arrayaren Elementuak Ordenatzea (sort funtzioa erabiliz): ondorengo balioak ordenatu eta bistaratu - "EH", "Frantzia", "Alemania", "Italia".-->
+
             <?php
 
                 $herrialdeak = ["EH","FRANTZIA","ALEMANIA","ITALIA"];
@@ -74,6 +81,8 @@
 
             ?>
         <h2> Ariketak 4.3</h2>
+        <!-- Arrayaren Elementuak Bikoitia edo Ez Bakoitia (foreach eta if erabiliz): 
+            kargatu 6 ausazko zenbaki oso (1etik 100era) zerrenda batean eta bakoitzeko esan bikoitia den ala ez.-->
 
             <?php
             

@@ -8,6 +8,7 @@
 
     <body>
         <h2>Ariketa2.1</h2>
+        <!--date funtzioa erabiliz lortu asteko egun zenbakia eta ondoren idatzi zein egunari dagokion (Adibidez 1 → astelehena, etab). if eta elseif erabiliz:-->
             <?php
 
                 
@@ -21,7 +22,7 @@
 
 
         <h2>Ariketa2.2</h2>
-
+        <!--Ingeles klaseko notak bistaratu (switch eta case erabiliz): nota F bada “oso gutxi”, D “gutxi”, C “nahiko”, B “ondo”, A “oso ondo” (nota aldagai batean gorde).-->
         <?php
 
             $nota = readline("Zein da zure ingeleseko nota? F/D/C/B/A: ");
@@ -57,6 +58,10 @@
 
 
             <h2>Ariketa2.3</h2>
+
+            <!--Gutxieneko eta Gehienezko Kopurua Bistaratu (if erabili): rand funtzioa erabiliz lortu 0 eta 30 bitarteko zenbakia 
+            eta esan zenbakia 0-10 artean dagoen 10 eta 20 artean edo 20 eta 30 artean dagoen.-->
+
                 <?php
 
                 $zbk = rand(0,30);
