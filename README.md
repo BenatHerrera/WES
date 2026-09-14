@@ -1,90 +1,75 @@
-# 📚 WES EGINDAKOA
+# WES Egindakoa
 
 <img width="350" height="200" alt="Imagen del proyecto" src="https://github.com/user-attachments/assets/e7b146a3-779d-4e3a-adc4-29aed3bc1014" />
 
----
+Errepositorio honetan WES ikastaroan zehar landutako PHP ariketak bildu ditut. Ariketa bakoitzean ikasitako kontzeptuak praktikan jartzen saiatu naiz, gero eta konplexutasun handiagoko problemak ebazten joanez.
 
-## 🗂️ Edukia | 🔗 |
+## Edukia
 
-- [🔴 Ariketak](#-ariketak)
-  - [Ariketa 1](ARIKETA1.php)
-  - [Ariketa 2](ARIKETA2.php)
-  - [Ariketa 3](ARIKETA3.php)
-  - [Ariketa 4](ARIKETA4.php)
-  - [Ariketa 5](ARIKETA5.php)
-
----
-
-# 🔴 ARIKETAK
-
-## 📝 Ariketa 1
-
-> Ariketa honen barruan hainbat ariketa eta kontzeptu landu dira.
-
-| #   | Ariketa                           |
-| --- | --------------------------------- |
-| 1️⃣ | Aldagaia eta Iruzkina             |
-| 2️⃣ | Baldintzak                        |
-| 3️⃣ | Erosketa Kopurua Handiagoa        |
-| 4️⃣ | Kontua Blokeatu Balio Batetik     |
-| 5️⃣ | Baimendutako Irteera Balioa Sortu |
+- [Ariketa 1](ARIKETA1.php) — Aldagaiak eta baldintza sinpleak
+- [Ariketa 2](ARIKETA2.php) — Baldintzak: switch, case, if/elseif
+- [Ariketa 3](ARIKETA3.php) — Begiztak eta array-ak
+- [Ariketa 4](ARIKETA4.php) — Array-ak, ausazko zenbakiak eta HTML taulak
+- [Ariketa 5](ARIKETA5.php) — Array multidimentsionalak
 
 ---
 
-## 📝 Ariketa 2
+## Ariketa 1
 
-> Ariketa honetan PHP-ko baldintzak, `switch`, `case`, `if` eta `elseif` erabiliz hainbat ariketa landu dira.
+Ariketa honetan oinarrizko kontzeptuak landu ditut: aldagaiak, iruzkinak eta baldintza sinpleak.
 
-| #   | Ariketa                                                                    |
-| --- | -------------------------------------------------------------------------- |
-| 1️⃣ | Asteko eguna `date()` funtzioarekin lortu eta bistaratzea                  |
-| 2️⃣ | Ingeleseko notak `switch` eta `case` erabiliz bistaratzea                  |
-| 3️⃣ | `rand()` erabiliz zenbaki bat sortu eta bere tartea `if` erabiliz zehaztea |
+| # | Ariketa |
+|---|---------|
+| 1 | Aldagaia eta iruzkina |
+| 2 | Baldintzak |
+| 3 | Erosketa kopurua handiagoa |
+| 4 | Kontua blokeatu balio batetik |
+| 5 | Baimendutako irteera balioa sortu |
+
+## Ariketa 2
+
+Baldintza egiturak sakonago landu ditut: `switch`, `case`, `if` eta `elseif`.
+
+| # | Ariketa |
+|---|---------|
+| 1 | Asteko eguna `date()` funtzioarekin lortu eta bistaratu |
+| 2 | Ingeleseko notak `switch` eta `case` erabiliz bistaratu |
+| 3 | `rand()` bidez zenbaki bat sortu eta bere tartea `if` erabiliz zehaztu |
+
+## Ariketa 3
+
+Begiztekin (`while`, `for`, `do...while`) eta array-ekin egindako lana.
+
+| # | Ariketa |
+|---|---------|
+| 1 | 1etik 10era bitarteko 10 ausazko zenbakiren batura, `while` erabiliz |
+| 2 | 1, 2, 3, 4 eta 5 zenbakien biderketa, `for` erabiliz |
+| 3 | 3tik 30era hirunaka doazen zenbakiak, `do...while` erabiliz |
+| 4 | Herrialdeen array bateko elementuak bistaratu |
+| 5 | 1 eta 100 arteko zenbaki lehenak bilatu eta bistaratu |
+
+## Ariketa 4
+
+Array-ak, ausazko zenbakiak, `foreach`, `if` eta `sort()` funtzioa uztartuz, datuak HTML tauletan bistaratzen ikasi dut.
+
+| # | Ariketa |
+|---|---------|
+| 1 | 1etik 100era bitarteko 5 ausazko zenbakiren batura, array baten bidez |
+| 2 | Herrialdeen array-a `sort()` erabiliz ordenatu eta bistaratu |
+| 3 | 1etik 100era bitarteko ausazko zenbakiak sortu eta bikoitiak diren egiaztatu |
+
+## Ariketa 5
+
+Array multidimentsionalak izan dira ariketa honen ardatza, `foreach`, `for`, `if`, `array_sum()` eta `array_column()` bezalako funtzioekin batera.
+
+| # | Ariketa |
+|---|---------|
+| 1 | Idazleen eta liburuen array multidimentsionala sortu eta bistaratu |
+| 2 | Ikasleen noten batezbestekoa kalkulatu eta bistaratu |
+| 3 | Ikasleen notak aztertu eta txarra, ona edo oso ona diren zehaztu |
+| 4 | Ikasleen izena, abizena, telefonoa eta adina array multidimentsional batean gorde eta taulan bistaratu |
+| 5 | Ikasle bakoitzeko bi abizen, bi telefono eta bestelako datu gorde eta taulan bistaratu |
 
 ---
 
-## 📝 Ariketa 3
-
-> Ariketa honetan PHP-ko begiztak eta array-ak landu dira: `while`, `for`, `do...while` eta `foreach`.
-
-| #   | Ariketa                                                             |
-| --- | ------------------------------------------------------------------- |
-| 1️⃣ | 1etik 10era bitarteko 10 ausazko zenbakiren batura `while` erabiliz |
-| 2️⃣ | 1, 2, 3, 4 eta 5 zenbakien biderketa `for` erabiliz                 |
-| 3️⃣ | 3tik 30era hirunaka doazen zenbakiak `do...while` erabiliz          |
-| 4️⃣ | Herrialdeen array bateko elementuak bistaratzea                     |
-| 5️⃣ | 1 eta 100 arteko zenbaki lehenak bilatu eta bistaratzea             |
-
----
-
-## 📝 Ariketa 4
-
-> Ariketa honetan array-ak, ausazko zenbakiak, `foreach`, `if` eta `sort()` funtzioa landu dira. Gainera, datuak HTML tauletan bistaratzen dira.
-
-| #   | Ariketa                                                                        |
-| --- | ------------------------------------------------------------------------------ |
-| 1️⃣ | 1etik 100era bitarteko 5 ausazko zenbakiren batura array baten bidez           |
-| 2️⃣ | Herrialdeen array-a `sort()` erabiliz ordenatu eta bistaratzea                 |
-| 3️⃣ | 1etik 100era bitarteko ausazko zenbakiak sortu eta bikoitiak diren egiaztatzea |
-
----
-
-## 📝 Ariketa 5
-
-> Ariketa honetan array multidimentsionalak landu dira, baita `foreach`, `for`, `if`, `array_sum()` eta `array_column()` bezalako funtzioak ere.
-
-| #   | Ariketa                                                                                                      |
-| --- | ------------------------------------------------------------------------------------------------------------ |
-| 1️⃣ | Idazleen eta liburuen array multidimentsionala sortu eta bistaratzea                                         |
-| 2️⃣ | Ikasleen noten batezbestekoa kalkulatu eta bistaratzea                                                       |
-| 3️⃣ | Ikasleen notak aztertu eta txarra, ona edo oso ona diren zehaztea                                            |
-| 4️⃣ | Ikasleen izena, abizena, telefonoa eta adina array multidimentsional batean gordetzea eta taulan bistaratzea |
-| 5️⃣ | Ikasle bakoitzeko bi abizen, bi telefono eta bestelako datuak gordetzea eta taulan bistaratzea               |
-
----
-
-## ⬆️ Nabigazioa
-
-[⬆️ Hasierara itzuli](#-wes-egindakoa)
-
----
+[Hasierara itzuli](#wes-egindakoa)
